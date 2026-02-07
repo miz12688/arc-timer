@@ -1,0 +1,56 @@
+{
+  "name": "@ArcTimer/react-native",
+  "version": "0.0.0",
+  "description": "React Native countdown circle timer using react-native-svg",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "react-native": "./dist/index.js",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "files": ["dist", "README.md"],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist .turbo"
+  },
+  "dependencies": {
+    "@ArcTimer/core": "workspace:*"
+  },
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.0",
+    "@types/react": "^19.0.0",
+    "@types/react-native": "^0.73.0"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0",
+    "react-native-svg": ">=13.0.0"
+  },
+  "keywords": ["react-native", "countdown", "timer", "circle", "ios", "android"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toankhontech/arc-timer.git",
+    "directory": "packages/react-native"
+  },
+  "homepage": "https://github.com/toankhontech/arc-timer",
+  "bugs": {
+    "url": "https://github.com/toankhontech/arc-timer/issues"
+  },
+  "author": "toankhontech",
+  "license": "MIT"
+}
