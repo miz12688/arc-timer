@@ -1,6 +1,6 @@
 {
   "name": "@toankhontech/arctimer-themes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pre-built themes and theming utilities for ArcTimer",
   "type": "module",
   "main": "./dist/index.cjs",

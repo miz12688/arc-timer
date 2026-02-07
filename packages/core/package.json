@@ -1,6 +1,6 @@
 {
   "name": "@toankhontech/arctimer-core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shared logic, hooks, and animation engine for ArcTimer. Zero platform deps.",
   "type": "module",
   "main": "./dist/index.cjs",

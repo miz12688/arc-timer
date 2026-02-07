@@ -1,6 +1,6 @@
 {
   "name": "@toankhontech/arctimer-react-native",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React Native countdown circle timer using react-native-svg",
   "type": "module",
   "main": "./dist/index.cjs",
